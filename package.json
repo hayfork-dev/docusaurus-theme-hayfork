@@ -1,0 +1,31 @@
+{
+  "name": "docusaurus-theme-hayfork",
+  "version": "0.1.0",
+  "description": "Hayfork search for Docusaurus: a search box in the navbar, with results from your Hayfork collection.",
+  "main": "index.js",
+  "files": [
+    "index.js",
+    "src"
+  ],
+  "keywords": [
+    "docusaurus",
+    "docusaurus-theme",
+    "docusaurus-plugin",
+    "search",
+    "docsearch",
+    "algolia-alternative",
+    "hayfork"
+  ],
+  "homepage": "https://hayfork.dev/docs/widget/",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hayfork-dev/docusaurus-theme-hayfork.git"
+  },
+  "bugs": "https://github.com/hayfork-dev/docusaurus-theme-hayfork/issues",
+  "author": "Bhanu Pratap Singh Sengar",
+  "license": "MIT",
+  "peerDependencies": {
+    "@docusaurus/core": "^3.0.0",
+    "react": "^18.0.0 || ^19.0.0"
+  }
+}
